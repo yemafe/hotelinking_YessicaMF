@@ -1,5 +1,5 @@
 
-git clone repourl  (https://github.com/yemafe/hotelinking_YessicaMF.git)
+git clone https://github.com/yemafe/hotelinking_YessicaMF.git
 
 cd hotelinking_YessicaMF
 
